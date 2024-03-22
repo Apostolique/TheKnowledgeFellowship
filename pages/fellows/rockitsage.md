@@ -1,7 +1,9 @@
 ---
-name: RockitSage
+title: RockitSage
 link: https://www.twitch.tv/rockitsage
-fields:
- - Geosciences
+tags:
+ - geosciences
 layout: post
 ---
+
+RockItSarge

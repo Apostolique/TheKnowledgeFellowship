@@ -1,0 +1,12 @@
+---
+layout: layouts/home.njk
+permalink: /fellows/
+eleventyNavigation:
+  key: Fellows
+  order: 2
+---
+
+<h1>Fellows</h1>
+
+{% set postslist = collections.fellows %}
+{% include "postslist.njk" %}

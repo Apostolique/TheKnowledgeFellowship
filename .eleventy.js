@@ -64,7 +64,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter('toc', content => parseContent.getToc(content));
 
   function filterTagList(tags) {
-    return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
+    return (tags || []).filter(tag => ["all", "nav", "post", "posts", "fellows"].indexOf(tag) === -1);
   }
 
   eleventyConfig.addFilter("filterTagList", filterTagList)
