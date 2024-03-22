@@ -1,0 +1,20 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "The Knowledge Fellowship",
+  "language": "en",
+  "home_page_url": "https://theknowledgefellowship.org/",
+  "feed_url": "https://theknowledgefellowship.org/feed/feed.json",
+  "description": "Sharing knowledge.",
+  "author": {
+    "name": "The Knowledge Fellowship",
+    "url": "https://theknowledgefellowship.org/about/"
+  },
+  "items": [{
+      "id": "https://theknowledgefellowship.org/TheKnowledgeFellowship/posts/Hello/",
+      "url": "https://theknowledgefellowship.org/TheKnowledgeFellowship/posts/Hello/",
+      "title": "Hello",
+      "content_html": "<p>Hello World!</p>\n",
+      "date_published": "2024-02-22T00:00:00Z"
+    }
+  ]
+}
