@@ -1,0 +1,21 @@
+{
+  "title": "The Knowledge Fellowship",
+  "url": "https://theknowledgefellowship.org/",
+  "language": "en",
+  "description": "Sharing knowledge.",
+  "feed": {
+    "subtitle": "Sharing knowledge.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://theknowledgefellowship.org/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://theknowledgefellowship.org/feed/feed.json"
+  },
+  "author": {
+    "name": "The Knowledge Fellowship",
+    "email": "knowledgefellowship@gmail.com",
+    "url": "https://theknowledgefellowship.org/about/"
+  }
+}
